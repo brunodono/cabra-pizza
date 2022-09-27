@@ -21,3 +21,9 @@ html {
   max-width: 300px;
   width: 80%;
 }
+
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
